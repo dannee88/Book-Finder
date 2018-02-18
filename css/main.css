@@ -1,0 +1,53 @@
+html {
+  overflow-x: hidden;
+}
+body {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_AxzGLDzwobqtObL-s3P_Rvww9AgEh3cVzVyoc2As-LD_WiL5w')
+}
+h1{
+  color: white;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 70px;
+
+}
+h2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  color: white;
+}
+h3{
+  color: white;
+}
+h4{
+  color: white;
+}
+
+/*user input*/
+#search{
+  width: 100%;
+  height: 45px;
+  font-size: 18px;
+}
+/*submit button*/
+
+
+/*results display*/
+#results{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/*JavaScript created items*/
+.item {
+  height:350px;
+  padding-top:20px;
+  border-bottom:1px solid gray;
+}
+.item img {
+  width: 165px;
+  height: 250px;
+  float: right;
+}
+
+
